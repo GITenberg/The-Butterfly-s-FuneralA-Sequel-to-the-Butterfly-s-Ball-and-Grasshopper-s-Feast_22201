@@ -9,6 +9,8 @@ creator:
     gutenberg_agent_id: '25180'
     url: http://www.gutenberg.org/2009/agents/25180
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/22201#The-Butterfly-s-FuneralA-Sequel-to-the-Butterfly-s-Ball-and-Grasshopper-s-Feast
 gutenberg_bookshelf: Children's Picture Books
 gutenberg_issued: '2007-08-01'
 gutenberg_type: Text
