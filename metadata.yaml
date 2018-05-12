@@ -1,0 +1,28 @@
+_repo: The-Butterfly-s-FuneralA-Sequel-to-the-Butterfly-s-Ball-and-Grasshopper-s-Feast_22201
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: J. L. B.
+    gutenberg_agent_id: '25180'
+    url: http://www.gutenberg.org/2009/agents/25180
+description: ''
+gutenberg_bookshelf: Children's Picture Books
+gutenberg_issued: '2007-08-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '22201'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PZ'
+- !lcsh 'Animals -- Juvenile poetry'
+- !lcsh 'Insects -- Juvenile poetry'
+title: 'The Butterfly''s Funeral
+
+  A Sequel to the Butterfly''s Ball and Grasshopper''s Feast'
+url: http://www.gutenberg.org/ebooks/22201
